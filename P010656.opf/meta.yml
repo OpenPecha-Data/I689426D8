@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W00KG07621
   title: རྟ་སོགས་ནད་ལ་གནའ་བོའི་བརྟག་བཅོས་གཅེས་བཏུས་
   author: ''
-  volumes: {}
+  volumes:
+    61fe382050af48d1ac7b9a0808a05156:
+      image_group_id: I00KG08427
+      title: ''
+      volume_number: 1
+      total_pages: 99
